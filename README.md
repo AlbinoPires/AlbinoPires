@@ -13,7 +13,7 @@ Atualmente, estou me preparando para a certificação **AWS Solutions Architect*
 - Cloud Computing (AWS) ☁️
 - Python Developer🐍
 - Infrastructure as Code (Terraform) 📜
-- Kubernetes & Docker** 🐳
+- Kubernetes & Docker 🐳
 - Git (Versionamento de Código) 🔧
 - Engenharia de Prompt IA 🤖
 - Monitoramento (Zabbix) 📊
