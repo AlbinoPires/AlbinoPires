@@ -17,7 +17,7 @@ Atualmente, estou me preparando para a certificação **AWS Solutions Architect*
 - Git (Versionamento de Código) 🔧
 - Engenharia de Prompt IA 🤖
 - Monitoramento (Zabbix) 📊
-- Linux e Windows** 🐧🪟
+- Linux e Windows 🐧🪟
 - Redes 🔒
 
 ---
