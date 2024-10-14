@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Albino Pires!
 
-🌐 Cloud Enthusiast | SRE Jr | Python Developer Jr
+🌐 Cloud Enthusiast | AWS Cloud | Python | Linux 
 
 🚀 Certificado AWS Cloud Practitioner e estudante de Computação em Nuvem, com um forte interesse em automação, infraestrutura como código (IaC) e DevOps. Sempre buscando aprender mais sobre tecnologias de ponta, como Python, Terraform, Kubernetes e Docker.
 
