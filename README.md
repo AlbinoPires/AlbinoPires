@@ -12,7 +12,7 @@ Atualmente, estou me preparando para a certificação **AWS Solutions Architect*
 
 - Cloud Computing (AWS) ☁️
 - Python Developer JR🐍
-- Python & API REST Flask🐍
+- Python Flask-RESTful e API REST🐍
 - Infrastructure as Code (Terraform) 📜
 - Kubernetes & Docker 🐳
 - Git (Versionamento de Código) 🔧
