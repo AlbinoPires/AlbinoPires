@@ -4,7 +4,7 @@
 
 🚀 Certificado AWS Cloud Practitioner e estudante de Computação em Nuvem, com um forte interesse em automação, infraestrutura como código (IaC) e DevOps. Sempre buscando aprender mais sobre tecnologias de ponta, como Python, Terraform, Kubernetes e Docker.
 
-Atualmente, estou me preparando para a certificação **AWS Solutions Architect** e desenvolvendo projetos focados em escalabilidade e automação em ambientes de **Cloud Computing**. Sou apaixonado por resolver problemas e explorar novas formas de otimizar processos.
+Atualmente, estou me preparando para a certificação **AWS Solutions Architect** e desenvolvendo em Java aprendendo essa linguagem fantástica para poder conseguir minha oportunidade na área Tech 🚀.
 
 ---
 
