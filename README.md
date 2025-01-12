@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou Albino Pires!
 
-🌐 Cloud Enthusiast | AWS Cloud | Python | Linux 
+🌐 Cloud Enthusiast | AWS Cloud | Python | Linux | Java Development - GFT Brasil
 
 🚀 Certificado AWS Cloud Practitioner e estudante de Computação em Nuvem, com um forte interesse em automação, infraestrutura como código (IaC) e DevOps. Sempre buscando aprender mais sobre tecnologias de ponta, como Python, Terraform, Kubernetes e Docker.
 
-Atualmente, estou me preparando para a certificação **AWS Solutions Architect** e desenvolvendo em Java aprendendo essa linguagem fantástica para poder conseguir minha oportunidade na área Tech 🚀.
+Atualmente, estou me preparando para a certificação **AWS Solutions Architect** e desenvolvendo em Java aprendendo essa linguagem fantástica, aonde consegui minha transição de carreira na área Tech 🚀.
 
 ---
 
@@ -13,7 +13,7 @@ Atualmente, estou me preparando para a certificação **AWS Solutions Architect*
 - Cloud Computing (AWS) ☁️
 - Python 🐍
 - Python Flask-RESTful e API REST🐍
-- Java ☕️
+- Java Development ☕️
 - Infrastructure as Code (Terraform) 📜
 - Kubernetes & Docker 🐳
 - Git (Versionamento de Código) 🔧
