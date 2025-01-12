@@ -11,9 +11,9 @@ Atualmente, estou me preparando para a certificação **AWS Solutions Architect*
 ## 🚀 Hard Skills
 
 - Cloud Computing (AWS) ☁️
+- Java Development ☕️
 - Python 🐍
 - Python Flask-RESTful e API REST🐍
-- Java Development ☕️
 - Infrastructure as Code (Terraform) 📜
 - Kubernetes & Docker 🐳
 - Git (Versionamento de Código) 🔧
