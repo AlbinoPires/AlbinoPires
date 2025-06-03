@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Albino Pires!
 
-🌐 Cloud Enthusiast | AWS Cloud | Python | Linux | Java Development - GFT Brasil
+🌐 Cloud Enthusiast | AWS Cloud | Linux | Backend Java | Spring Boot  - GFT Brasil
 
 🚀 Certificado AWS Cloud Practitioner e estudante de Computação em Nuvem, com um forte interesse em infraestrutura como código (IaC) e Desenvolvimento, atualmente atuando como Intern Backend Development,  sempre buscando aprender mais sobre tecnologias de ponta, Terraform, Kubernetes e Docker, Java, Spring Boot, Microservices, Spring Cloud, Angular.
 
