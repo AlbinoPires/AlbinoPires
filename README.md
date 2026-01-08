@@ -2,9 +2,9 @@
 
 🌐 Cloud Enthusiast | AWS Cloud | Linux | Backend Java | Spring Boot  - GFT Brasil
 
-🚀 Certificado AWS Cloud Practitioner e estudante de Computação em Nuvem, com um forte interesse em Desenvolvimento e infraestrutura como código (IaC), atualmente atuando como Intern Backend Development,  sempre buscando aprender mais sobre tecnologias de ponta e melhorar em Java, Spring Boot, Microservices, Spring Cloud, Kubernetes e Docker.
+🚀 Certificado AWS Cloud Practitioner, Solutions Arquitect Associate SAA-C03 e estudante de Computação em Nuvem, com um forte interesse em Desenvolvimento e infraestrutura como código (IaC), atualmente atuando como Desenvolvedor Backend,  sempre buscando aprender mais sobre tecnologias de ponta e melhorar como programador em Java, Spring Boot, Microservices, Spring Cloud, Kubernetes e Docker.
 
-Atualmente, estou me preparando para a certificação **AWS Solutions Architect** e desenvolvendo em Java aprendendo essa linguagem fantástica, aonde consegui minha transição de carreira na área Tech 🚀.
+Atualmente, estou me preparando para a certificação **AWS Developer** e desenvolvendo em Java aprendendo todo dia essa linguagem fantástica, aonde consegui atuar e demonstrar o quanto posso evoluir 🚀.
 
 ---
 
