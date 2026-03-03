@@ -97,7 +97,3 @@ Projeto backend desenvolvido em **Java 17 + Spring Boot**, simulando cenário co
   <img width="48%" src="https://stats-github-readme.vercel.app/api/top-langs/?username=AlbinoPires&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 ---
-
-## 🚀 Linguagens Mais Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbinoPires...)
