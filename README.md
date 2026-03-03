@@ -40,6 +40,7 @@ Projeto backend desenvolvido em **Java 17 + Spring Boot**, simulando cenário co
 
 🟢 CI Status: Passing  
 ![CI](https://github.com/AlbinoPires/BancoX-Versionamento-Teste/actions/workflows/ci.yml/badge.svg)
+---
 🟢 Coverage: 99%  
 ![Coverage](https://img.shields.io/badge/Coverage-99%25-brightgreen)
 
