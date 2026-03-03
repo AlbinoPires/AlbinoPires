@@ -48,8 +48,10 @@ Atualmente, estou me preparando para a certificação **AWS Developer** e desenv
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlbinoPires&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlbinoPires&show_icons=true&theme=transparent&bg_color=000000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFFFFF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbinoPires&layout=compact&theme=transparent&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF&langs_count=8" />
+</p>
 ---
 
 ## 🚀 Linguagens Mais Usadas
