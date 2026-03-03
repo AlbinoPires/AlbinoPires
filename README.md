@@ -23,6 +23,31 @@ Atualmente, estou me preparando para a certificação **AWS Developer** e desenv
 
 ---
 
+---
+
+## 🏦 Projeto em Destaque
+
+### BancoX – API Versionamento com CI/CD
+
+Projeto backend desenvolvido em **Java 17 + Spring Boot**, simulando cenário corporativo com versionamento de API e validação contínua de qualidade.
+
+🔹 Versionamento de API (v1, v2 no mesmo controller)  
+🔹 Injeção avançada com @Component e @Qualifier  
+🔹 Arquitetura desacoplada e escalável  
+🔹 Testes automatizados (JUnit + Mockito)  
+🔹 Cobertura 99% com JaCoCo  
+🔹 Pipeline CI com GitHub Actions  
+🔹 Build automatizado Maven  
+🔹 Health Check da aplicação  
+🔹 Validação automática a cada push  
+
+🟢 CI Status: Passing  
+🟢 Coverage: 99%  
+
+📎 Repositório: https://github.com/AlbinoPires/BancoX-Versionamento-Teste
+
+---
+
 ## 🌐 Onde me encontrar
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albino-pires-b188391b3/)
