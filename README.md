@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Albino Pires - Desenvolvedor Backend!
 
-🌐 Cloud Enthusiast | AWS Cloud | Linux | Backend Java | Spring Boot  - GFT Brasil
+🌐 Backend Engineer | Java & Cloud | AWS Certified | CI/CD & Quality Driven - GFT Brasil
 
 🚀 Certificado AWS Cloud Practitioner, Solutions Arquitect Associate SAA-C03 e estudante de Computação em Nuvem, com um forte interesse em Desenvolvimento e infraestrutura como código (IaC), atualmente atuando como Desenvolvedor Backend,  sempre buscando aprender mais sobre tecnologias de ponta e melhorar como programador em Java, Spring Boot, Microservices, Spring Cloud, Kubernetes e Docker.
 
@@ -69,6 +69,27 @@ Projeto backend desenvolvido em **Java 17 + Spring Boot**, simulando cenário co
 
 ---
 
+## 🏗️ Foco em Arquitetura e Qualidade
+
+🔹 Clean Architecture  
+🔹 Design Patterns (Strategy, Factory, etc.)  
+🔹 Microsserviços  
+🔹 Integração entre serviços (REST / Mensageria)  
+🔹 Observabilidade e Health Check  
+🔹 Boas práticas para ambientes regulatórios
+
+---
+
+## ⚙️ Mentalidade DevOps
+
+✔ Integração Contínua (CI)  
+✔ Cobertura automatizada  
+✔ Build Maven estruturado  
+✔ Containerização com Docker  
+✔ Deploy orientado a qualidade  
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -79,4 +100,4 @@ Projeto backend desenvolvido em **Java 17 + Spring Boot**, simulando cenário co
 
 ## 🚀 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbinoPires&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbinoPires...)
