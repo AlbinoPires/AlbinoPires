@@ -23,9 +23,7 @@ Atualmente, estou me preparando para a certificação **AWS Developer** e desenv
 
 ---
 
----
-
-## 🏦 Projeto em Destaque
+## 🏦 Projeto em Destaque 
 
 ### BancoX – API Versionamento com CI/CD
 
