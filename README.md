@@ -38,12 +38,10 @@ Projeto backend desenvolvido em **Java 17 + Spring Boot**, simulando cenário co
 🔹 Health Check da aplicação  
 🔹 Validação automática a cada push  
 
-🟢 CI: 
-![CI](https://github.com/AlbinoPires/BancoX-Versionamento-Teste/actions/workflows/ci.yml/badge.svg)
----
-🟢 Coverage:   
-![Coverage](https://img.shields.io/badge/Coverage-99%25-brightgreen)
-
+<p align="left">
+  <img height="22" src="https://img.shields.io/badge/CI-Passing-brightgreen?logo=githubactions&logoColor=white" />
+  <img height="22" src="https://img.shields.io/badge/Coverage-99%25-brightgreen" />
+</p>
 📎 Repositório: https://github.com/AlbinoPires/BancoX-Versionamento-Teste
 
 ---
