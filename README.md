@@ -21,7 +21,6 @@ Atualmente, estou me preparando para a certificação **AWS Developer** e desenv
 - Linux e Windows 🐧🪟
 - Redes 🔒
 
----
 
 ## 🏦 Projeto em Destaque 
 
