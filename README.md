@@ -4,8 +4,7 @@
 
 🚀 Certificado AWS Cloud Practitioner, Solutions Arquitect Associate SAA-C03 e estudante de Computação em Nuvem, com um forte interesse em Desenvolvimento e infraestrutura como código (IaC), atualmente atuando como Desenvolvedor Backend,  sempre buscando aprender mais sobre tecnologias de ponta e melhorar como programador em Java, Spring Boot, Microservices, Spring Cloud, Kubernetes e Docker.
 
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-SAA--C03-orange?logo=amazonaws&logoColor=white)
-
+![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?logo=amazonaws&logoColor=white)
 Atualmente, estou me preparando para a certificação **AWS Developer** e desenvolvendo em Java aprendendo todo dia essa linguagem fantástica, aonde consegui atuar e demonstrar o quanto posso evoluir 🚀.
 
 ---
