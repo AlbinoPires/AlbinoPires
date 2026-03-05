@@ -4,7 +4,7 @@
 
 🚀 Certificado AWS Cloud Practitioner, Solutions Arquitect Associate SAA-C03 e estudante de Computação em Nuvem, com um forte interesse em Desenvolvimento e infraestrutura como código (IaC), atualmente atuando como Desenvolvedor Backend,  sempre buscando aprender mais sobre tecnologias de ponta e melhorar como programador em Java, Spring Boot, Microservices, Spring Cloud, Kubernetes e Docker.
 
-![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?logo=amazonaws&logoColor=white)
+
 Atualmente, estou me preparando para a certificação **AWS Developer** e desenvolvendo em Java aprendendo todo dia essa linguagem fantástica, aonde consegui atuar e demonstrar o quanto posso evoluir 🚀.
 
 ---
@@ -60,6 +60,7 @@ Projeto backend desenvolvido em **Java 17 + Spring Boot**, simulando cenário co
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
