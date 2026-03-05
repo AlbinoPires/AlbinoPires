@@ -11,8 +11,12 @@ Atualmente, estou me preparando para a certificação **AWS Developer** e desenv
 
 ## 🚀 Hard Skills
 
-- Cloud Computing (AWS) ☁️ - 
-![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?logo=amazonaws&logoColor=white)
+- Cloud Computing (AWS) ☁️ 
+- 🏆 AWS Certifications:
+
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-blue?logo=amazonaws&logoColor=white)
+![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-orange?logo=amazonaws&logoColor=white)
+![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?logo=amazonaws&logoColor=white)
 - Java Development ☕️
 - API REST
 - Springboot
