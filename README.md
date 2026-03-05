@@ -11,7 +11,8 @@ Atualmente, estou me preparando para a certificação **AWS Developer** e desenv
 
 ## 🚀 Hard Skills
 
-- Cloud Computing (AWS) ☁️
+- Cloud Computing (AWS) ☁️ - 
+![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?logo=amazonaws&logoColor=white)
 - Java Development ☕️
 - API REST
 - Springboot
@@ -60,7 +61,6 @@ Projeto backend desenvolvido em **Java 17 + Spring Boot**, simulando cenário co
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
