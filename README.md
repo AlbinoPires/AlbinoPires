@@ -8,6 +8,16 @@
 Atualmente, estou me preparando para a certificação **AWS Developer** e desenvolvendo em Java aprendendo todo dia essa linguagem fantástica, aonde consegui atuar e demonstrar o quanto posso evoluir 🚀.
 
 ---
+💼 Experiência
+
+Backend Developer — GFT Brasil
+
+• Desenvolvimento de microserviços Java
+• Integrações REST
+• Arquitetura baseada em microserviços
+• Integração com sistemas corporativos
+
+---
 
 ## 🚀 Hard Skills
 
